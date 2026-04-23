@@ -1,0 +1,9 @@
+{
+    "name": "MyMod",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/YourName/MyMod",
+    "description": "A BepInEx mod built from the Thunderstore mod template.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
